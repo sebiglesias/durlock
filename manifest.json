@@ -1,0 +1,19 @@
+{
+  "name": "Calculadora Durlock & Construcción en Seco",
+  "short_name": "Durlock Calc",
+  "description": "Calculadora de materiales para construcción en seco, tabiques, revestimientos y cielorrasos Durlock y Pladur.",
+  "start_url": "/durlock/",
+  "scope": "/durlock/",
+  "display": "standalone",
+  "background_color": "#0f1115",
+  "theme_color": "#0f1115",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
